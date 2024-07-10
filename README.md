@@ -1,5 +1,5 @@
 
-## To RUn
+### To Run
 
 ```bash
   npm i
